@@ -4,4 +4,4 @@ When pippetting droplets of microrganisms in suspension onto an agar plate, line
 
 This simple [OpenSCAD](http://www.openscad.org/) script generates .STL files which can be used to 3D print such stencils yielding results like those shown.
 
-![Stencil and marked up plate](http://).
+![Stencil and marked up plate](https://raw.githubusercontent.com/bobturneruk/MilesMisraStencil/master/milesmisrastencil.jpg).
