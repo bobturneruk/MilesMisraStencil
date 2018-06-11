@@ -1,4 +1,4 @@
-//A stencil for marking up "Mile-Mirsa" agar plates
+//A stencil for marking up "Miles-Misra" agar plates
 //OpenSCAD (http://www.openscad.org/) is required to
 //generate .STL files from this script.
 
